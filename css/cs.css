@@ -1,0 +1,14 @@
+.card .imgs{
+    height: 200px;
+}
+
+.home{
+    background-image: url(../image/15-Rules-for-Great-Wine-and-Food-Pairings-FT-BLOG1023-f6db46229f8d4e2c81c94f8a85e3c50e.jpg);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar .nav-link{
+    cursor: pointer;
+}
